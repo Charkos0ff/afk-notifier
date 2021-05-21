@@ -1,0 +1,19 @@
+{
+  "name": "afk-notifier",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CharkosOff",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "colors": "^1.4.0",
+    "fs": "*",
+    "os": "^0.1.1",
+    "process": "^0.11.10",
+    "readline": "^1.3.0"
+  }
+}
