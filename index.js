@@ -1,6 +1,4 @@
-const axios = require('axios')
-const process = require('process');
-const colors = require('colors');
+const colors = require('colors')
 const fs = require("fs")
 const os = require("os")
 
